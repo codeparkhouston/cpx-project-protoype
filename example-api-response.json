@@ -1,0 +1,5361 @@
+{
+    "type": "FeatureCollection",
+    "properties":
+    {
+        "DataRange":
+        {
+            "StartDate": "",
+            "EndDate": "7/27/2018 3:19 AM CDT"
+        }
+    },
+    "features": [
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.025513, 29.554639],
+            "offset": [-0.01998, 0.01067],
+            "Text": "A100_100 Clear Lake 2nd Outlet @ SH 146"
+        },
+        "properties":
+        {
+            "SiteId": 100,
+            "SiteType": "Gate",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": -0.26,
+                "CurrentReadingDate": "2018-07-27T03:03:30",
+                "ChannelInfo":
+                {
+                    "TOB": 7.70,
+                    "BOC": -11.87,
+                    "SensorId": 103,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            },
+            {
+                "CurrentLevel": -0.45,
+                "CurrentReadingDate": "2018-07-27T03:09:30",
+                "ChannelInfo":
+                {
+                    "TOB": 7.70,
+                    "BOC": -9.00,
+                    "SensorId": 104,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.217353, 29.543475],
+            "offset": [0.01121, 0.00924],
+            "Text": "Mary's_105 Creek @ Winding Road"
+        },
+        "properties":
+        {
+            "SiteId": 105,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 16.3393,
+                "CurrentReadingDate": "2018-07-27T03:02:42",
+                "ChannelInfo":
+                {
+                    "TOB": 26.80,
+                    "BOC": 15.96,
+                    "SensorId": 108,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.11741, 29.50796],
+            "offset": [-0.00059, -0.00032],
+            "Text": "A100_110 Clear Creek @ I-45"
+        },
+        "properties":
+        {
+            "SiteId": 110,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": -0.42,
+                "CurrentReadingDate": "2018-07-27T03:07:52",
+                "ChannelInfo":
+                {
+                    "TOB": 6.00,
+                    "BOC": -8.37,
+                    "SensorId": 109,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": 1.00,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.222531, 29.513234],
+            "offset": [-9E-05, 0.00011],
+            "Text": "115 Cowart Creek @ Baker Road"
+        },
+        "properties":
+        {
+            "SiteId": 115,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 13.0453,
+                "CurrentReadingDate": "2018-07-27T02:52:10",
+                "ChannelInfo":
+                {
+                    "TOB": 27.10,
+                    "BOC": 12.95,
+                    "SensorId": 118,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.179061, 29.517555],
+            "offset": [-0.00025, -0.0005],
+            "Text": "A100_120 Clear Creek @ FM 528"
+        },
+        "properties":
+        {
+            "SiteId": 120,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": -0.28,
+                "CurrentReadingDate": "2018-07-27T03:05:42",
+                "ChannelInfo":
+                {
+                    "TOB": 12.00,
+                    "BOC": -11.39,
+                    "SensorId": 123,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.223522, 29.495189],
+            "offset": [0.00017, -9E-05],
+            "Text": "125 Chigger Creek @ Windsong Lane"
+        },
+        "properties":
+        {
+            "SiteId": 125,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 19.31,
+                "CurrentReadingDate": "2018-07-27T02:25:00",
+                "ChannelInfo":
+                {
+                    "TOB": 28.00,
+                    "BOC": 18.55,
+                    "SensorId": 128,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.159806, 29.497498],
+            "offset": [0.00012, -0.00015],
+            "Text": "A100_130 Clear Creek @ Bay Area Boulevard"
+        },
+        "properties":
+        {
+            "SiteId": 130,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 0.4737,
+                "CurrentReadingDate": "2018-07-27T02:20:57",
+                "ChannelInfo":
+                {
+                    "TOB": 7.40,
+                    "BOC": -13.43,
+                    "SensorId": 133,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.196775, 29.542461],
+            "offset": [-0.0148, 0.00032],
+            "Text": "A100_135 Clear Creek @ FM 2351"
+        },
+        "properties":
+        {
+            "SiteId": 135,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 0.67,
+                "CurrentReadingDate": "2018-07-27T03:08:04",
+                "ChannelInfo":
+                {
+                    "TOB": 18.10,
+                    "BOC": -2.05,
+                    "SensorId": 138,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.187552, 29.583903],
+            "offset": [-0.00565, -0.00062],
+            "Text": "A119_140 Turkey Creek @ FM 1959"
+        },
+        "properties":
+        {
+            "SiteId": 140,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 15.6341,
+                "CurrentReadingDate": "2018-07-27T02:14:27",
+                "ChannelInfo":
+                {
+                    "TOB": 28.00,
+                    "BOC": 12.73,
+                    "SensorId": 143,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.252032, 29.556148],
+            "offset": [0.01698, 0.00229],
+            "Text": "A100_150 Clear Creek @ Country Club Drive"
+        },
+        "properties":
+        {
+            "SiteId": 150,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 17.05,
+                "CurrentReadingDate": "2018-07-27T03:10:57",
+                "ChannelInfo":
+                {
+                    "TOB": 36.00,
+                    "BOC": 15.59,
+                    "SensorId": 149,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.222089, 29.591725],
+            "offset": [0.00506, -0.00021],
+            "Text": "A120_160 Beamer Ditch @ Hughes Road"
+        },
+        "properties":
+        {
+            "SiteId": 160,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 19.3943,
+                "CurrentReadingDate": "2018-07-27T00:31:48",
+                "ChannelInfo":
+                {
+                    "TOB": 31.30,
+                    "BOC": 18.53,
+                    "SensorId": 163,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.091224, 29.534116],
+            "offset": [-0.00426, -0.00078],
+            "Text": "A100_170 Clear Creek @ Nassau Bay"
+        },
+        "properties":
+        {
+            "SiteId": 170,
+            "SiteType": "Gate",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 0.2,
+                "CurrentReadingDate": "2018-07-27T00:37:09",
+                "ChannelInfo":
+                {
+                    "TOB": 6.00,
+                    "BOC": -1.65,
+                    "SensorId": 169,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": 1.00,
+                    "NoFloodCategory": false
+                }
+            },
+            {
+                "CurrentLevel": 2.6106,
+                "CurrentReadingDate": "2018-07-27T00:37:09",
+                "ChannelInfo":
+                {
+                    "TOB": 6.00,
+                    "BOC": -1.65,
+                    "SensorId": 173,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": 1.00,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.297345, 29.596694],
+            "offset": [-0.01078, -0.00086],
+            "Text": "A100_180 Clear Creek @ Mykawa Road"
+        },
+        "properties":
+        {
+            "SiteId": 180,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 31.1,
+                "CurrentReadingDate": "2018-07-27T03:12:26",
+                "ChannelInfo":
+                {
+                    "TOB": 43.50,
+                    "BOC": 30.24,
+                    "SensorId": 179,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.385979, 29.585932],
+            "offset": [0.0, 0.00021],
+            "Text": "A100_190 Clear Creek @ SH 288"
+        },
+        "properties":
+        {
+            "SiteId": 190,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 42.95,
+                "CurrentReadingDate": "2018-07-27T01:22:35",
+                "ChannelInfo":
+                {
+                    "TOB": 54.10,
+                    "BOC": 42.03,
+                    "SensorId": 189,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.053834, 29.565371],
+            "offset": [-0.01469, 1E-05],
+            "Text": "A104_200 Taylor Lake @ Nasa Road 1"
+        },
+        "properties":
+        {
+            "SiteId": 200,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": -0.3193,
+                "CurrentReadingDate": "2018-07-27T02:48:55",
+                "ChannelInfo":
+                {
+                    "TOB": 5.70,
+                    "BOC": -4.32,
+                    "SensorId": 203,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": 1.00,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.070795, 29.564191],
+            "offset": [0.01514, -0.0028],
+            "Text": "B100_210 Armand Bayou @ Pasadena Lake (Nasa Road 1)"
+        },
+        "properties":
+        {
+            "SiteId": 210,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": -0.4,
+                "CurrentReadingDate": "2018-07-27T02:57:17",
+                "ChannelInfo":
+                {
+                    "TOB": 6.50,
+                    "BOC": -0.66,
+                    "SensorId": 213,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.114485, 29.633755],
+            "offset": [-0.00217, 0.00924],
+            "Text": "B100_220 Armand Bayou @ Genoa-Red Bluff Road"
+        },
+        "properties":
+        {
+            "SiteId": 220,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": -0.03,
+                "CurrentReadingDate": "2018-07-27T02:14:03",
+                "ChannelInfo":
+                {
+                    "TOB": 15.00,
+                    "BOC": -0.85,
+                    "SensorId": 219,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.076001, 29.651497],
+            "offset": [-0.00503, -8E-05],
+            "Text": "B106_230 Big Island Slough @ Fairmont Parkway"
+        },
+        "properties":
+        {
+            "SiteId": 230,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 0.959,
+                "CurrentReadingDate": "2018-07-26T23:18:19",
+                "ChannelInfo":
+                {
+                    "TOB": 16.90,
+                    "BOC": 0.90,
+                    "SensorId": 233,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.183473, 29.683502],
+            "offset": [-0.02702, 0.0146],
+            "Text": "I100_240 Little Vince Bayou @ Burke Road"
+        },
+        "properties":
+        {
+            "SiteId": 240,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 17.3648,
+                "CurrentReadingDate": "2018-07-27T02:20:56",
+                "ChannelInfo":
+                {
+                    "TOB": 29.50,
+                    "BOC": 17.21,
+                    "SensorId": 243,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.103438, 29.583671],
+            "offset": [1E-05, 0.00029],
+            "Text": "B104_250 Horsepen Bayou @ Bay Area Boulevard"
+        },
+        "properties":
+        {
+            "SiteId": 250,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": -0.4434,
+                "CurrentReadingDate": "2018-07-27T03:00:55",
+                "ChannelInfo":
+                {
+                    "TOB": 12.80,
+                    "BOC": -7.43,
+                    "SensorId": 253,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.110027, 29.650747],
+            "offset": [0.00987, 0.00012],
+            "Text": "B112_270 Willow Spring Bayou @ Fairmont Parkway"
+        },
+        "properties":
+        {
+            "SiteId": 270,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 4.3263,
+                "CurrentReadingDate": "2018-07-26T23:21:09",
+                "ChannelInfo":
+                {
+                    "TOB": 19.50,
+                    "BOC": 3.21,
+                    "SensorId": 273,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.228933, 29.656295],
+            "offset": [-0.00057, 0.00477],
+            "Text": "C106_310 Berry Bayou @ Nevada Avenue"
+        },
+        "properties":
+        {
+            "SiteId": 310,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 15.54,
+                "CurrentReadingDate": "2018-07-26T23:22:16",
+                "ChannelInfo":
+                {
+                    "TOB": 29.00,
+                    "BOC": 15.03,
+                    "SensorId": 309,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.243682, 29.676469],
+            "offset": [4E-05, 0.00385],
+            "Text": "C106_320 Berry Bayou @ Forest Oaks Boulevard"
+        },
+        "properties":
+        {
+            "SiteId": 320,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": -0.21,
+                "CurrentReadingDate": "2018-07-27T02:16:44",
+                "ChannelInfo":
+                {
+                    "TOB": 25.00,
+                    "BOC": -0.70,
+                    "SensorId": 323,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.289014, 29.674494],
+            "offset": [0.00424, 0.00053],
+            "Text": "C100_340 Sims Bayou @ Telephone Road"
+        },
+        "properties":
+        {
+            "SiteId": 340,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": -0.39,
+                "CurrentReadingDate": "2018-07-27T03:10:18",
+                "ChannelInfo":
+                {
+                    "TOB": 26.20,
+                    "BOC": -2.31,
+                    "SensorId": 339,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.336798, 29.644783],
+            "offset": [0.00015, -0.0004],
+            "Text": "C100_360 Sims Bayou @ Martin Luther King Road"
+        },
+        "properties":
+        {
+            "SiteId": 360,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 4.86,
+                "CurrentReadingDate": "2018-07-27T00:40:03",
+                "ChannelInfo":
+                {
+                    "TOB": 34.50,
+                    "BOC": 4.36,
+                    "SensorId": 359,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.386657, 29.632178],
+            "offset": [0.00018, 0.00034],
+            "Text": "C100_370 Sims Bayou @ SH 288"
+        },
+        "properties":
+        {
+            "SiteId": 370,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 14.5166,
+                "CurrentReadingDate": "2018-07-27T02:26:43",
+                "ChannelInfo":
+                {
+                    "TOB": 44.50,
+                    "BOC": 13.02,
+                    "SensorId": 373,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.445887, 29.619293],
+            "offset": [0.00016, 0.00045],
+            "Text": "C100_380 Sims Bayou @ Hiram-Clarke Road"
+        },
+        "properties":
+        {
+            "SiteId": 380,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 26.09,
+                "CurrentReadingDate": "2018-07-26T23:26:20",
+                "ChannelInfo":
+                {
+                    "TOB": 50.20,
+                    "BOC": 26.30,
+                    "SensorId": 379,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.392158, 29.707682],
+            "offset": [0.0, -0.00012],
+            "Text": "D109_400 Harris Gully @ South McGregor Way"
+        },
+        "properties":
+        {
+            "SiteId": 400,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 20.6809,
+                "CurrentReadingDate": "2018-07-27T00:22:11",
+                "ChannelInfo":
+                {
+                    "TOB": 39.10,
+                    "BOC": 20.60,
+                    "SensorId": 403,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.305332, 29.722625],
+            "offset": [-0.00026, 0.00014],
+            "Text": "D100_410 Brays Bayou @ Lawndale Street"
+        },
+        "properties":
+        {
+            "SiteId": 410,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": -0.6,
+                "CurrentReadingDate": "2018-07-27T02:55:01",
+                "ChannelInfo":
+                {
+                    "TOB": 14.50,
+                    "BOC": -5.70,
+                    "SensorId": 413,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.412138, 29.697018],
+            "offset": [-5E-05, 0.00961],
+            "Text": "D100_420 Brays Bayou @ South Main Street"
+        },
+        "properties":
+        {
+            "SiteId": 420,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 16.61,
+                "CurrentReadingDate": "2018-07-26T23:31:04",
+                "ChannelInfo":
+                {
+                    "TOB": 41.00,
+                    "BOC": 13.59,
+                    "SensorId": 419,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.439914, 29.690953],
+            "offset": [0.02012, -0.00968],
+            "Text": "D100_430 Brays Bayou @ Stella Link Road"
+        },
+        "properties":
+        {
+            "SiteId": 430,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 22.3,
+                "CurrentReadingDate": "2018-07-27T01:15:36",
+                "ChannelInfo":
+                {
+                    "TOB": 48.40,
+                    "BOC": 19.79,
+                    "SensorId": 429,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.460008, 29.664477],
+            "offset": [-0.00017, 0.00515],
+            "Text": "D112_435 Willow Water Hole @ Willowbend Boulevard"
+        },
+        "properties":
+        {
+            "SiteId": 435,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 34.7386,
+                "CurrentReadingDate": "2018-07-27T02:37:48",
+                "ChannelInfo":
+                {
+                    "TOB": 51.10,
+                    "BOC": 34.39,
+                    "SensorId": 438,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.467271, 29.678605],
+            "offset": [0.01061, -0.00023],
+            "Text": "D100_440 Brays Bayou @ Rice Avenue"
+        },
+        "properties":
+        {
+            "SiteId": 440,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 28.01,
+                "CurrentReadingDate": "2018-07-27T00:21:10",
+                "ChannelInfo":
+                {
+                    "TOB": 51.30,
+                    "BOC": 25.97,
+                    "SensorId": 443,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.4867, 29.65023],
+            "offset": [2E-05, 0.0105],
+            "Text": "D112_445 Willow Water Hole @ Landsdowne Drive"
+        },
+        "properties":
+        {
+            "SiteId": 445,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 44.217,
+                "CurrentReadingDate": "2018-07-26T23:21:53",
+                "ChannelInfo":
+                {
+                    "TOB": 54.20,
+                    "BOC": 43.70,
+                    "SensorId": 444,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.527994, 29.672371],
+            "offset": [0.00018, -0.00041],
+            "Text": "D100_460 Brays Bayou @ Gessner Road"
+        },
+        "properties":
+        {
+            "SiteId": 460,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 38.64,
+                "CurrentReadingDate": "2018-07-26T23:34:09",
+                "ChannelInfo":
+                {
+                    "TOB": 61.30,
+                    "BOC": 35.87,
+                    "SensorId": 459,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.556599, 29.695066],
+            "offset": [0.00036, -0.00018],
+            "Text": "D100_465 Brays Bayou @ Beltway 8"
+        },
+        "properties":
+        {
+            "SiteId": 465,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 44.827,
+                "CurrentReadingDate": "2018-07-27T00:58:34",
+                "ChannelInfo":
+                {
+                    "TOB": 66.40,
+                    "BOC": 43.82,
+                    "SensorId": 468,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.5825, 29.709284],
+            "offset": [0.00967, -0.01178],
+            "Text": "D100_470 Brays Bayou @ Belle Park Drive"
+        },
+        "properties":
+        {
+            "SiteId": 470,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 52.27,
+                "CurrentReadingDate": "2018-07-26T23:36:28",
+                "ChannelInfo":
+                {
+                    "TOB": 72.40,
+                    "BOC": 51.73,
+                    "SensorId": 473,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.566081, 29.70391],
+            "offset": [-0.02034, -0.01003],
+            "Text": "D100_475 Brays Bayou @ Bellaire Boulevard"
+        },
+        "properties":
+        {
+            "SiteId": 475,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 48.42,
+                "CurrentReadingDate": "2018-07-26T23:54:50",
+                "ChannelInfo":
+                {
+                    "TOB": 69.20,
+                    "BOC": 46.62,
+                    "SensorId": 474,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.562488, 29.656136],
+            "offset": [0.00979, 0.00971],
+            "Text": "D118_480 Keegans Bayou @ Roark Road"
+        },
+        "properties":
+        {
+            "SiteId": 480,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 60.28,
+                "CurrentReadingDate": "2018-07-26T23:38:29",
+                "ChannelInfo":
+                {
+                    "TOB": 71.60,
+                    "BOC": 58.50,
+                    "SensorId": 479,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.643933, 29.715071],
+            "offset": [0.00028, -0.00056],
+            "Text": "D100_485 Brays Bayou @ SH 6"
+        },
+        "properties":
+        {
+            "SiteId": 485,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 67.7,
+                "CurrentReadingDate": "2018-07-27T02:45:53",
+                "ChannelInfo":
+                {
+                    "TOB": 81.10,
+                    "BOC": 66.97,
+                    "SensorId": 484,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.594968, 29.665721],
+            "offset": [0.00019, 0.00014],
+            "Text": "D118_490 Keegans Bayou @ Keegan Road"
+        },
+        "properties":
+        {
+            "SiteId": 490,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 66.2127,
+                "CurrentReadingDate": "2018-07-26T23:40:29",
+                "ChannelInfo":
+                {
+                    "TOB": 78.90,
+                    "BOC": 65.91,
+                    "SensorId": 493,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.649195, 29.678422],
+            "offset": [-3E-05, 0.0],
+            "Text": "D118_495 Keegans Bayou @ Rocky Valley"
+        },
+        "properties":
+        {
+            "SiteId": 495,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 73.912,
+                "CurrentReadingDate": "2018-07-26T23:59:34",
+                "ChannelInfo":
+                {
+                    "TOB": 85.70,
+                    "BOC": 73.68,
+                    "SensorId": 498,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.452383, 29.806225],
+            "offset": [0.00012, 0.00073],
+            "Text": "510 Harris County Flood Control @ Brookhollow"
+        },
+        "properties":
+        {
+            "SiteId": 510,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": null
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.397145, 29.774876],
+            "offset": [0.0001, -0.00029],
+            "Text": "E100_520 White Oak Bayou @ Heights Boulevard"
+        },
+        "properties":
+        {
+            "SiteId": 520,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 7.67,
+                "CurrentReadingDate": "2018-07-27T03:10:30",
+                "ChannelInfo":
+                {
+                    "TOB": 32.00,
+                    "BOC": 6.59,
+                    "SensorId": 519,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.429368, 29.803438],
+            "offset": [-0.01827, -0.0132],
+            "Text": "E100_530 White Oak Bayou @ Ella Boulevard"
+        },
+        "properties":
+        {
+            "SiteId": 530,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 24.32,
+                "CurrentReadingDate": "2018-07-26T23:44:32",
+                "ChannelInfo":
+                {
+                    "TOB": 53.90,
+                    "BOC": 22.54,
+                    "SensorId": 529,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.458339, 29.840915],
+            "offset": [-0.03467, 0.00486],
+            "Text": "E100_535 White Oak Bayou @ Pinemont Drive"
+        },
+        "properties":
+        {
+            "SiteId": 535,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 42.04,
+                "CurrentReadingDate": "2018-07-27T02:40:42",
+                "ChannelInfo":
+                {
+                    "TOB": 66.50,
+                    "BOC": 40.52,
+                    "SensorId": 534,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.480366, 29.870424],
+            "offset": [0.01021, -0.00345],
+            "Text": "E100_540 White Oak Bayou @ Alabonson Road"
+        },
+        "properties":
+        {
+            "SiteId": 540,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 59.85,
+                "CurrentReadingDate": "2018-07-26T23:46:36",
+                "ChannelInfo":
+                {
+                    "TOB": 75.90,
+                    "BOC": 57.81,
+                    "SensorId": 539,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.524522, 29.877297],
+            "offset": [0.01311, 0.01021],
+            "Text": "E100_545 White Oak Bayou @ Fairbanks North Houston Road"
+        },
+        "properties":
+        {
+            "SiteId": 545,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 71.31,
+                "CurrentReadingDate": "2018-07-26T23:47:47",
+                "ChannelInfo":
+                {
+                    "TOB": 92.60,
+                    "BOC": 70.13,
+                    "SensorId": 544,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.556185, 29.887358],
+            "offset": [0.00499, -0.00516],
+            "Text": "E100_550 White Oak Bayou @ Lakeview Drive"
+        },
+        "properties":
+        {
+            "SiteId": 550,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 82.98,
+                "CurrentReadingDate": "2018-07-26T23:48:36",
+                "ChannelInfo":
+                {
+                    "TOB": 98.40,
+                    "BOC": 81.82,
+                    "SensorId": 549,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.584556, 29.917687],
+            "offset": [5E-05, -8E-05],
+            "Text": "E100_555 White Oak Bayou @ Jones Road"
+        },
+        "properties":
+        {
+            "SiteId": 555,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 100.2107,
+                "CurrentReadingDate": "2018-07-27T02:59:17",
+                "ChannelInfo":
+                {
+                    "TOB": 114.30,
+                    "BOC": 99.12,
+                    "SensorId": 558,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.367817, 29.792956],
+            "offset": [0.00091, -0.00437],
+            "Text": "E101_560 Little White Oak Bayou @ Trimble Street"
+        },
+        "properties":
+        {
+            "SiteId": 560,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 19.47,
+                "CurrentReadingDate": "2018-07-27T00:40:39",
+                "ChannelInfo":
+                {
+                    "TOB": 42.40,
+                    "BOC": 18.63,
+                    "SensorId": 559,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.399729, 29.845139],
+            "offset": [-0.00995, -0.01021],
+            "Text": "E101_570 Little White Oak Bayou @ Tidwell Road"
+        },
+        "properties":
+        {
+            "SiteId": 570,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 52.7154,
+                "CurrentReadingDate": "2018-07-27T01:53:03",
+                "ChannelInfo":
+                {
+                    "TOB": 64.40,
+                    "BOC": 51.98,
+                    "SensorId": 573,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.460193, 29.846237],
+            "offset": [0.00553, -0.00512],
+            "Text": "E100_575 White Oak Bayou @ Tidwell Road"
+        },
+        "properties":
+        {
+            "SiteId": 575,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 45.69,
+                "CurrentReadingDate": "2018-07-27T01:50:37",
+                "ChannelInfo":
+                {
+                    "TOB": 68.10,
+                    "BOC": 44.53,
+                    "SensorId": 578,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.469019, 29.827664],
+            "offset": [0.00052, 0.00473],
+            "Text": "E115_580 Brickhouse Gully @ Costa Rica Road"
+        },
+        "properties":
+        {
+            "SiteId": 580,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 47.49,
+                "CurrentReadingDate": "2018-07-26T23:52:16",
+                "ChannelInfo":
+                {
+                    "TOB": 63.00,
+                    "BOC": 47.24,
+                    "SensorId": 579,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.509149, 29.823918],
+            "offset": [0.0, 0.0],
+            "Text": "582 Brickhouse Gully @ Hollister"
+        },
+        "properties":
+        {
+            "SiteId": 582,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 64.64,
+                "CurrentReadingDate": "2018-07-26T23:50:14",
+                "ChannelInfo":
+                {
+                    "TOB": 76.70,
+                    "BOC": 64.47,
+                    "SensorId": 5827,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.4692, 29.868133],
+            "offset": [-0.02429, -0.00202],
+            "Text": "E121_585 Vogel Creek @ Victory Drive"
+        },
+        "properties":
+        {
+            "SiteId": 585,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 58.26,
+                "CurrentReadingDate": "2018-07-27T03:07:39",
+                "ChannelInfo":
+                {
+                    "TOB": 73.90,
+                    "BOC": 57.18,
+                    "SensorId": 584,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.487669, 29.850893],
+            "offset": [0.02506, 0.00983],
+            "Text": "E117_590 Cole Creek @ Deihl Road"
+        },
+        "properties":
+        {
+            "SiteId": 590,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 62.2,
+                "CurrentReadingDate": "2018-07-26T23:54:43",
+                "ChannelInfo":
+                {
+                    "TOB": 78.50,
+                    "BOC": 60.26,
+                    "SensorId": 589,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.467416, 29.883128],
+            "offset": [-0.00973, -0.01022],
+            "Text": "E121_595 Vogel Creek @ Gulf Bank Road"
+        },
+        "properties":
+        {
+            "SiteId": 595,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 66.39,
+                "CurrentReadingDate": "2018-07-27T00:53:35",
+                "ChannelInfo":
+                {
+                    "TOB": 78.60,
+                    "BOC": 65.55,
+                    "SensorId": 594,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.021669, 29.619923],
+            "offset": [4E-05, -0.0001],
+            "Text": "A104_610 Taylor's Bayou @ Shoreacres Boulevard"
+        },
+        "properties":
+        {
+            "SiteId": 610,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": -0.019,
+                "CurrentReadingDate": "2018-07-27T02:36:43",
+                "ChannelInfo":
+                {
+                    "TOB": 5.00,
+                    "BOC": -4.20,
+                    "SensorId": 613,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": 1.00,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.027295, 29.650057],
+            "offset": [-0.0008, -0.00067],
+            "Text": "F216_620 Little Cedar Bayou @ 8th Street"
+        },
+        "properties":
+        {
+            "SiteId": 620,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 0.7026,
+                "CurrentReadingDate": "2018-07-26T23:58:44",
+                "ChannelInfo":
+                {
+                    "TOB": 11.90,
+                    "BOC": -0.32,
+                    "SensorId": 623,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.0467935, 29.6832709],
+            "offset": [0.0, 0.0],
+            "Text": "F101_640 Lateral @ Sens Road"
+        },
+        "properties":
+        {
+            "SiteId": 640,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 8.2843,
+                "CurrentReadingDate": "2018-07-26T23:58:45",
+                "ChannelInfo":
+                {
+                    "TOB": 18.00,
+                    "BOC": 7.11,
+                    "SensorId": 643,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.077694, 29.829041],
+            "offset": [0.02775, -0.01554],
+            "Text": "G103_710 San Jacinto River @ Rio Villa"
+        },
+        "properties":
+        {
+            "SiteId": 710,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": -0.3695,
+                "CurrentReadingDate": "2018-07-27T03:06:46",
+                "ChannelInfo":
+                {
+                    "TOB": 5.50,
+                    "BOC": -1.75,
+                    "SensorId": 713,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": 1.00,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.093111, 29.876372],
+            "offset": [0.00044, -1E-05],
+            "Text": "G103_720 San Jacinto River @ US 90"
+        },
+        "properties":
+        {
+            "SiteId": 720,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 8.16,
+                "CurrentReadingDate": "2018-07-26T17:28:49",
+                "ChannelInfo":
+                {
+                    "TOB": 10.00,
+                    "BOC": -17.50,
+                    "SensorId": 719,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.121808, 30.016032],
+            "offset": [0.0, 0.0],
+            "Text": "740 Lake Houston @ FM 1960"
+        },
+        "properties":
+        {
+            "SiteId": 740,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 42.33,
+                "CurrentReadingDate": "2018-07-26T23:40:13",
+                "ChannelInfo":
+                {
+                    "TOB": 44.80,
+                    "BOC": 25.56,
+                    "SensorId": 739,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": 1.00,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.141641, 29.916112],
+            "offset": [-0.00032, -0.00022],
+            "Text": "G103_750 Lake Houston Dam Spillway"
+        },
+        "properties":
+        {
+            "SiteId": 750,
+            "SiteType": "Spillway",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 42.17,
+                "CurrentReadingDate": "2018-07-27T03:02:49",
+                "ChannelInfo":
+                {
+                    "TOB": 41.71,
+                    "BOC": 28.33,
+                    "SensorId": 749,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": 0.01,
+                    "NoFloodCategory": true
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.175246, 30.03041],
+            "offset": [0.02154, 0.00234],
+            "Text": "G103_755 San Jacinto River @ Lake Houston Pkwy"
+        },
+        "properties":
+        {
+            "SiteId": 755,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 42.4,
+                "CurrentReadingDate": "2018-07-27T01:36:20",
+                "ChannelInfo":
+                {
+                    "TOB": 47.32,
+                    "BOC": 25.56,
+                    "SensorId": 758,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": 1.00,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.257999, 30.026775],
+            "offset": [0.00022, 0.00027],
+            "Text": "G103_760 San Jacinto River @ US 59"
+        },
+        "properties":
+        {
+            "SiteId": 760,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 42.37,
+                "CurrentReadingDate": "2018-07-27T03:04:51",
+                "ChannelInfo":
+                {
+                    "TOB": 49.30,
+                    "BOC": 36.28,
+                    "SensorId": 759,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.338315, 30.141217],
+            "offset": [0.0, 0.0],
+            "Text": "G103_765 San Jacinto River @ SH 99"
+        },
+        "properties":
+        {
+            "SiteId": 765,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 56.44,
+                "CurrentReadingDate": "2018-07-26T23:35:14",
+                "ChannelInfo":
+                {
+                    "TOB": 81.00,
+                    "BOC": 56.05,
+                    "SensorId": 764,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.302114, 30.259784],
+            "offset": [0.0, 0.0],
+            "Text": "780 Caney Creek @ FM 2090"
+        },
+        "properties":
+        {
+            "SiteId": 780,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 120.19,
+                "CurrentReadingDate": "2018-07-26T23:36:41",
+                "ChannelInfo":
+                {
+                    "TOB": 131.70,
+                    "BOC": 119.48,
+                    "SensorId": 779,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.168007, 30.232609],
+            "offset": [0.0, 0.0],
+            "Text": "785 Peach Creek @ FM 2090"
+        },
+        "properties":
+        {
+            "SiteId": 785,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 86.01,
+                "CurrentReadingDate": "2018-07-26T23:37:26",
+                "ChannelInfo":
+                {
+                    "TOB": 93.61,
+                    "BOC": 85.40,
+                    "SensorId": 784,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.125124, 30.145153],
+            "offset": [-0.00062, -0.00015],
+            "Text": "G103_790 East Fork San Jacinto @ FM 1485"
+        },
+        "properties":
+        {
+            "SiteId": 790,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 45.82,
+                "CurrentReadingDate": "2018-07-27T03:04:52",
+                "ChannelInfo":
+                {
+                    "TOB": 60.00,
+                    "BOC": 44.68,
+                    "SensorId": 789,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.10292, 30.214124],
+            "offset": [0.0, 0.0],
+            "Text": "G103_795 East Fork San Jacinto @ FM 2090"
+        },
+        "properties":
+        {
+            "SiteId": 795,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 70.59,
+                "CurrentReadingDate": "2018-07-26T23:39:53",
+                "ChannelInfo":
+                {
+                    "TOB": 80.00,
+                    "BOC": 69.12,
+                    "SensorId": 794,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.227954, 29.771615],
+            "offset": [0.00679, 0.00698],
+            "Text": "H100_820 Hunting Bayou @ I-10"
+        },
+        "properties":
+        {
+            "SiteId": 820,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 2.55,
+                "CurrentReadingDate": "2018-07-26T23:15:20",
+                "ChannelInfo":
+                {
+                    "TOB": 19.50,
+                    "BOC": 2.26,
+                    "SensorId": 819,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.267971, 29.793569],
+            "offset": [5E-05, 0.0005],
+            "Text": "H100_830 Hunting Bayou @ Loop 610 East"
+        },
+        "properties":
+        {
+            "SiteId": 830,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 17.05,
+                "CurrentReadingDate": "2018-07-27T03:06:54",
+                "ChannelInfo":
+                {
+                    "TOB": 34.70,
+                    "BOC": 16.30,
+                    "SensorId": 829,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.312927, 29.808772],
+            "offset": [0.00414, 0.00096],
+            "Text": "H100_840 Hunting Bayou @ Lockwood Drive"
+        },
+        "properties":
+        {
+            "SiteId": 840,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 28.61,
+                "CurrentReadingDate": "2018-07-27T03:08:54",
+                "ChannelInfo":
+                {
+                    "TOB": 40.60,
+                    "BOC": 27.49,
+                    "SensorId": 839,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.21614, 29.694493],
+            "offset": [0.01016, 3E-05],
+            "Text": "I100_920 Vince Bayou @ West Ellaine Down Stream"
+        },
+        "properties":
+        {
+            "SiteId": 920,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 5.12,
+                "CurrentReadingDate": "2018-07-27T03:08:55",
+                "ChannelInfo":
+                {
+                    "TOB": 19.30,
+                    "BOC": 4.01,
+                    "SensorId": 919,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.200141, 29.705491],
+            "offset": [-0.00077, -0.0099],
+            "Text": "I101_940 Little Vince Bayou @ Jackson Avenue"
+        },
+        "properties":
+        {
+            "SiteId": 940,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 5.62,
+                "CurrentReadingDate": "2018-07-27T01:57:47",
+                "ChannelInfo":
+                {
+                    "TOB": 22.40,
+                    "BOC": 5.52,
+                    "SensorId": 943,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.439563, 29.782684],
+            "offset": [0.00544, 0.00014],
+            "Text": "1000_Houston Transtar"
+        },
+        "properties":
+        {
+            "SiteId": 1000,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": null
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.412726, 29.68798],
+            "offset": [-0.00994, 0.02017],
+            "Text": "1020_NRG Park"
+        },
+        "properties":
+        {
+            "SiteId": 1020,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": null
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.596571, 30.134077],
+            "offset": [0.00012, -0.00036],
+            "Text": "J100_1040 Spring Creek @ FM 2978"
+        },
+        "properties":
+        {
+            "SiteId": 1040,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 122.08,
+                "CurrentReadingDate": "2018-07-26T23:12:59",
+                "ChannelInfo":
+                {
+                    "TOB": 141.10,
+                    "BOC": 121.06,
+                    "SensorId": 1039,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.436785, 30.109633],
+            "offset": [-0.00065, -0.00155],
+            "Text": "J100_1050 Spring Creek @ I-45"
+        },
+        "properties":
+        {
+            "SiteId": 1050,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 73.73,
+                "CurrentReadingDate": "2018-07-26T23:14:19",
+                "ChannelInfo":
+                {
+                    "TOB": 91.20,
+                    "BOC": 70.30,
+                    "SensorId": 1049,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.681837, 30.185636],
+            "offset": [0.0, 0.0],
+            "Text": "1052 Mill Creek @ FM 149"
+        },
+        "properties":
+        {
+            "SiteId": 1052,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": null
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.770421, 30.238181],
+            "offset": [0.0, 0.0],
+            "Text": "1054 Mill Creek @ FM 1486"
+        },
+        "properties":
+        {
+            "SiteId": 1054,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": null
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.535489, 30.196484],
+            "offset": [0.0, 0.0],
+            "Text": "1055 Bear Branch @ Kuykendahl"
+        },
+        "properties":
+        {
+            "SiteId": 1055,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": null
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.835022, 30.298096],
+            "offset": [0.0, 0.0],
+            "Text": "1056 Mill Creek @ FM 1774"
+        },
+        "properties":
+        {
+            "SiteId": 1056,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": null
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.541396, 30.170279],
+            "offset": [-0.00033, 9E-05],
+            "Text": "J100_1060 Spring Creek @ Kuykendahl Road"
+        },
+        "properties":
+        {
+            "SiteId": 1060,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 109.4,
+                "CurrentReadingDate": "2018-07-26T23:14:51",
+                "ChannelInfo":
+                {
+                    "TOB": 127.90,
+                    "BOC": 107.53,
+                    "SensorId": 1063,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.645868, 30.119699],
+            "offset": [-0.00012, 0.00038],
+            "Text": "J100_1070 Spring Creek @ SH 249"
+        },
+        "properties":
+        {
+            "SiteId": 1070,
+            "SiteType": "Channel",
+            "Rainfall": 0,
+            "RainfallText": null,
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 138.88,
+                "CurrentReadingDate": "2018-07-27T02:45:00",
+                "ChannelInfo":
+                {
+                    "TOB": 155.00,
+                    "BOC": 136.17,
+                    "SensorId": 700,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.752812, 30.143696],
+            "offset": [0.0, 0.0],
+            "Text": "1072 Walnut Creek @ Nichols Sawmill"
+        },
+        "properties":
+        {
+            "SiteId": 1072,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": null
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.809912, 30.178866],
+            "offset": [0.0, 0.0],
+            "Text": "1074 Walnut Creek @ Joseph Road"
+        },
+        "properties":
+        {
+            "SiteId": 1074,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 208.27,
+                "CurrentReadingDate": "2018-07-26T23:56:57",
+                "ChannelInfo":
+                {
+                    "TOB": 218.80,
+                    "BOC": 208.10,
+                    "SensorId": 1074,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.6573377, 30.0964515],
+            "offset": [0.0, 0.0],
+            "Text": "1075_Tomball Repeater"
+        },
+        "properties":
+        {
+            "SiteId": 1075,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": null
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.839529, 30.237906],
+            "offset": [0.0, 0.0],
+            "Text": "1076 Birch Creek @ Riley Road"
+        },
+        "properties":
+        {
+            "SiteId": 1076,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 252.577,
+                "CurrentReadingDate": "2018-07-27T00:12:15",
+                "ChannelInfo":
+                {
+                    "TOB": 260.60,
+                    "BOC": 252.40,
+                    "SensorId": 1076,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.863216, 30.152994],
+            "offset": [0.0, 0.0],
+            "Text": "1084 Threemile Creek @ Joseph Road"
+        },
+        "properties":
+        {
+            "SiteId": 1084,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 232.622,
+                "CurrentReadingDate": "2018-07-26T23:24:38",
+                "ChannelInfo":
+                {
+                    "TOB": 238.50,
+                    "BOC": 231.90,
+                    "SensorId": 1084,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.933637, 30.193345],
+            "offset": [0.0, 0.0],
+            "Text": "1086 Threemile Creek @ FM 362"
+        },
+        "properties":
+        {
+            "SiteId": 1086,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 264.7627,
+                "CurrentReadingDate": "2018-07-27T02:25:54",
+                "ChannelInfo":
+                {
+                    "TOB": 273.00,
+                    "BOC": 262.30,
+                    "SensorId": 1087,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.841879, 30.085697],
+            "offset": [7E-05, -0.00029],
+            "Text": "J100_1090 Spring Creek @ Hegar Road"
+        },
+        "properties":
+        {
+            "SiteId": 1090,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 203.67,
+                "CurrentReadingDate": "2018-07-26T23:16:56",
+                "ChannelInfo":
+                {
+                    "TOB": 214.00,
+                    "BOC": 203.03,
+                    "SensorId": 1093,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.330033, 30.031016],
+            "offset": [0.00011, 0.00046],
+            "Text": "K100_1110 Cypress Creek @ Cypresswood Drive"
+        },
+        "properties":
+        {
+            "SiteId": 1110,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 43.12,
+                "CurrentReadingDate": "2018-07-26T23:19:03",
+                "ChannelInfo":
+                {
+                    "TOB": 64.20,
+                    "BOC": 41.69,
+                    "SensorId": 1109,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.409868, 30.034738],
+            "offset": [-0.00489, 0.00704],
+            "Text": "K600_1115 Cypress Creek @ Inverness Forest"
+        },
+        "properties":
+        {
+            "SiteId": 1115,
+            "SiteType": "Gate",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 59.4901,
+                "CurrentReadingDate": "2018-07-27T00:04:06",
+                "ChannelInfo":
+                {
+                    "TOB": 82.80,
+                    "BOC": 57.87,
+                    "SensorId": 1118,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            },
+            {
+                "CurrentLevel": 59.6447,
+                "CurrentReadingDate": "2018-07-27T02:57:06",
+                "ChannelInfo":
+                {
+                    "TOB": 82.80,
+                    "BOC": 59.45,
+                    "SensorId": 1116,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.428694, 30.036344],
+            "offset": [0.01004, -0.00933],
+            "Text": "K100_1120 Cypress Creek @ I-45"
+        },
+        "properties":
+        {
+            "SiteId": 1120,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 64.22,
+                "CurrentReadingDate": "2018-07-26T23:21:04",
+                "ChannelInfo":
+                {
+                    "TOB": 85.50,
+                    "BOC": 62.40,
+                    "SensorId": 1119,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.475879, 30.023755],
+            "offset": [0.00049, -0.00067],
+            "Text": "K100_1130 Cypress Creek @ Kuykendahl Road"
+        },
+        "properties":
+        {
+            "SiteId": 1130,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 73.5,
+                "CurrentReadingDate": "2018-07-26T23:20:04",
+                "ChannelInfo":
+                {
+                    "TOB": 97.30,
+                    "BOC": 72.30,
+                    "SensorId": 1133,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.511647, 30.006281],
+            "offset": [0.01023, -0.00033],
+            "Text": "K100_1140 Cypress Creek @ Stuebner-Airline Road"
+        },
+        "properties":
+        {
+            "SiteId": 1140,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 81.97,
+                "CurrentReadingDate": "2018-07-26T23:23:06",
+                "ChannelInfo":
+                {
+                    "TOB": 102.70,
+                    "BOC": 79.51,
+                    "SensorId": 1139,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.569924, 29.985654],
+            "offset": [0.00027, -0.00029],
+            "Text": "K100_1150 Cypress Creek @ SH 249"
+        },
+        "properties":
+        {
+            "SiteId": 1150,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 92.6,
+                "CurrentReadingDate": "2018-07-26T23:22:06",
+                "ChannelInfo":
+                {
+                    "TOB": 117.00,
+                    "BOC": 91.75,
+                    "SensorId": 1153,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.598483, 29.973483],
+            "offset": [-0.01477, 0.01984],
+            "Text": "K100_1160 Cypress Creek @ Grant Road"
+        },
+        "properties":
+        {
+            "SiteId": 1160,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 102.13,
+                "CurrentReadingDate": "2018-07-26T23:23:43",
+                "ChannelInfo":
+                {
+                    "TOB": 122.20,
+                    "BOC": 101.14,
+                    "SensorId": 1159,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.607602, 29.966174],
+            "offset": [0.0024, -0.00383],
+            "Text": "K100_1165 Cypress Creek @ Eldridge Parkway N."
+        },
+        "properties":
+        {
+            "SiteId": 1165,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 103.34,
+                "CurrentReadingDate": "2018-07-26T23:26:04",
+                "ChannelInfo":
+                {
+                    "TOB": 122.60,
+                    "BOC": 102.92,
+                    "SensorId": 1168,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.631215, 29.961554],
+            "offset": [-0.00021, 0.00796],
+            "Text": "K100_1170 Cypress Creek @ Huffmeister Road"
+        },
+        "properties":
+        {
+            "SiteId": 1170,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 110.22,
+                "CurrentReadingDate": "2018-07-26T23:27:09",
+                "ChannelInfo":
+                {
+                    "TOB": 127.50,
+                    "BOC": 109.87,
+                    "SensorId": 1173,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.6782, 29.95686],
+            "offset": [0.0, 0.0],
+            "Text": "K100_1175 Cypress Creek @ US 290"
+        },
+        "properties":
+        {
+            "SiteId": 1175,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 120.28,
+                "CurrentReadingDate": "2018-07-27T02:40:16",
+                "ChannelInfo":
+                {
+                    "TOB": 136.40,
+                    "BOC": 119.40,
+                    "SensorId": 1178,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.808312, 29.950388],
+            "offset": [4E-05, 0.00041],
+            "Text": "K100_1180 Cypress Creek @ Katy-Hockley Road"
+        },
+        "properties":
+        {
+            "SiteId": 1180,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 145.51,
+                "CurrentReadingDate": "2018-07-26T23:29:11",
+                "ChannelInfo":
+                {
+                    "TOB": 157.30,
+                    "BOC": 145.31,
+                    "SensorId": 1179,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.840178, 29.921049],
+            "offset": [0.00022, 7E-05],
+            "Text": "K100_1185 Cypress Creek @ Sharp Road"
+        },
+        "properties":
+        {
+            "SiteId": 1185,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 152.18,
+                "CurrentReadingDate": "2018-07-26T23:28:08",
+                "ChannelInfo":
+                {
+                    "TOB": 164.20,
+                    "BOC": 150.86,
+                    "SensorId": 1188,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.924128, 29.948015],
+            "offset": [0.0, 0.0],
+            "Text": "1186 Live Oak Creek @ Penick Road"
+        },
+        "properties":
+        {
+            "SiteId": 1186,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 178.0658,
+                "CurrentReadingDate": "2018-07-27T00:23:09",
+                "ChannelInfo":
+                {
+                    "TOB": 185.60,
+                    "BOC": 177.70,
+                    "SensorId": 1187,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.907953, 30.005339],
+            "offset": [8E-05, 0.00015],
+            "Text": "K166_1190 Little Mound Creek @ Mathis Road"
+        },
+        "properties":
+        {
+            "SiteId": 1190,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 197.71,
+                "CurrentReadingDate": "2018-07-27T02:47:12",
+                "ChannelInfo":
+                {
+                    "TOB": 205.30,
+                    "BOC": 196.40,
+                    "SensorId": 1193,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.936264, 30.043079],
+            "offset": [0.0, 0.0],
+            "Text": "1195 Mound Creek @ FM 362"
+        },
+        "properties":
+        {
+            "SiteId": 1195,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 215.332,
+                "CurrentReadingDate": "2018-07-27T00:53:14",
+                "ChannelInfo":
+                {
+                    "TOB": 221.30,
+                    "BOC": 212.80,
+                    "SensorId": 1194,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.630248, 29.977553],
+            "offset": [-0.00106, -0.01105],
+            "Text": "L100_1210 Little Cypress Creek @ Kluge Road"
+        },
+        "properties":
+        {
+            "SiteId": 1210,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 114.7,
+                "CurrentReadingDate": "2018-07-26T23:31:12",
+                "ChannelInfo":
+                {
+                    "TOB": 133.10,
+                    "BOC": 114.40,
+                    "SensorId": 1209,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.697286, 30.01593],
+            "offset": [0.00015, 0.0],
+            "Text": "L100_1220 Little Cypress Creek @ Cypress Rosehill Road"
+        },
+        "properties":
+        {
+            "SiteId": 1220,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 143.36,
+                "CurrentReadingDate": "2018-07-26T23:32:15",
+                "ChannelInfo":
+                {
+                    "TOB": 160.20,
+                    "BOC": 143.18,
+                    "SensorId": 1219,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.799237, 30.027473],
+            "offset": [-0.0001, -0.00013],
+            "Text": "L100_1230 Little Cypress Creek @ Becker Road"
+        },
+        "properties":
+        {
+            "SiteId": 1230,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 188.21,
+                "CurrentReadingDate": "2018-07-26T23:33:13",
+                "ChannelInfo":
+                {
+                    "TOB": 194.60,
+                    "BOC": 187.97,
+                    "SensorId": 1233,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.546382, 30.105339],
+            "offset": [0.00023, -0.00016],
+            "Text": "M100_1320 Willow Creek @ Kuykendahl Road"
+        },
+        "properties":
+        {
+            "SiteId": 1320,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 112.33,
+                "CurrentReadingDate": "2018-07-26T23:34:12",
+                "ChannelInfo":
+                {
+                    "TOB": 129.40,
+                    "BOC": 111.63,
+                    "SensorId": 1319,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.620855, 30.063023],
+            "offset": [-0.00043, -2E-05],
+            "Text": "M100_1340 Willow Creek @ SH 249"
+        },
+        "properties":
+        {
+            "SiteId": 1340,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 145.92,
+                "CurrentReadingDate": "2018-07-27T02:33:12",
+                "ChannelInfo":
+                {
+                    "TOB": 155.70,
+                    "BOC": 145.08,
+                    "SensorId": 1343,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.149022, 29.771535],
+            "offset": [-0.00161, -0.00059],
+            "Text": "N100_1420 Carpenters Bayou @ I-10"
+        },
+        "properties":
+        {
+            "SiteId": 1420,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 0.01,
+                "CurrentReadingDate": "2018-07-27T03:07:18",
+                "ChannelInfo":
+                {
+                    "TOB": 16.00,
+                    "BOC": -1.85,
+                    "SensorId": 1419,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.158445, 29.809924],
+            "offset": [0.00065, 0.0001],
+            "Text": "N100_1440 Carpenters Bayou @ Wallisville Road"
+        },
+        "properties":
+        {
+            "SiteId": 1440,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 15.83,
+                "CurrentReadingDate": "2018-07-27T01:57:27",
+                "ChannelInfo":
+                {
+                    "TOB": 31.80,
+                    "BOC": 14.72,
+                    "SensorId": 1439,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.160484, 29.838598],
+            "offset": [0.00053, -0.00055],
+            "Text": "N100_1460 Carpenters Bayou @ US 90"
+        },
+        "properties":
+        {
+            "SiteId": 1460,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 23.41,
+                "CurrentReadingDate": "2018-07-27T02:21:04",
+                "ChannelInfo":
+                {
+                    "TOB": 36.10,
+                    "BOC": 23.45,
+                    "SensorId": 1459,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-94.990514, 29.713447],
+            "offset": [0.00089, -0.00029],
+            "Text": "O100_1520 Goose Creek @ SH 146"
+        },
+        "properties":
+        {
+            "SiteId": 1520,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": -0.26,
+                "CurrentReadingDate": "2018-07-27T03:12:47",
+                "ChannelInfo":
+                {
+                    "TOB": 9.70,
+                    "BOC": -2.16,
+                    "SensorId": 1519,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-94.999611, 29.770944],
+            "offset": [6E-05, -0.00011],
+            "Text": "O100_1540 Goose Creek @ Baker Road"
+        },
+        "properties":
+        {
+            "SiteId": 1540,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 4.75,
+                "CurrentReadingDate": "2018-07-26T23:39:21",
+                "ChannelInfo":
+                {
+                    "TOB": 18.40,
+                    "BOC": 4.60,
+                    "SensorId": 1539,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.237623, 29.891907],
+            "offset": [0.00034, -0.00011],
+            "Text": "P100_1600 Greens Bayou @ Mount Houston Parkway"
+        },
+        "properties":
+        {
+            "SiteId": 1600,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 18.25,
+                "CurrentReadingDate": "2018-07-27T02:23:07",
+                "ChannelInfo":
+                {
+                    "TOB": 46.00,
+                    "BOC": 17.03,
+                    "SensorId": 1603,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.206451, 29.776023],
+            "offset": [-0.01313, -0.00656],
+            "Text": "P100_1610 Greens Bayou @ Normandy Street"
+        },
+        "properties":
+        {
+            "SiteId": 1610,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": -0.59,
+                "CurrentReadingDate": "2018-07-27T02:31:04",
+                "ChannelInfo":
+                {
+                    "TOB": 10.50,
+                    "BOC": -22.74,
+                    "SensorId": 1613,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.233773, 29.837012],
+            "offset": [0.00665, 0.00457],
+            "Text": "P100_1620 Greens Bayou @ Ley Road"
+        },
+        "properties":
+        {
+            "SiteId": 1620,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 0.36,
+                "CurrentReadingDate": "2018-07-27T01:15:24",
+                "ChannelInfo":
+                {
+                    "TOB": 30.00,
+                    "BOC": -2.12,
+                    "SensorId": 1619,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.233574, 29.933648],
+            "offset": [0.00053, -0.00074],
+            "Text": "P130_1630 Garners Bayou @ Beltway 8"
+        },
+        "properties":
+        {
+            "SiteId": 1630,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 33.78,
+                "CurrentReadingDate": "2018-07-26T23:45:08",
+                "ChannelInfo":
+                {
+                    "TOB": 51.50,
+                    "BOC": 31.57,
+                    "SensorId": 1629,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.306565, 29.91791],
+            "offset": [0.00032, -0.00037],
+            "Text": "P100_1640 Greens Bayou @ US 59"
+        },
+        "properties":
+        {
+            "SiteId": 1640,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 38.84,
+                "CurrentReadingDate": "2018-07-26T23:46:04",
+                "ChannelInfo":
+                {
+                    "TOB": 55.00,
+                    "BOC": 35.39,
+                    "SensorId": 1639,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.34932, 29.938692],
+            "offset": [0.00033, -4E-05],
+            "Text": "P100_1645 Greens Bayou @ Beltway 8"
+        },
+        "properties":
+        {
+            "SiteId": 1645,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 45.66,
+                "CurrentReadingDate": "2018-07-26T23:52:02",
+                "ChannelInfo":
+                {
+                    "TOB": 69.30,
+                    "BOC": 45.04,
+                    "SensorId": 1644,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.271954, 29.965025],
+            "offset": [-0.00021, -3E-05],
+            "Text": "P130_1650 Garners Bayou @ Rankin Road"
+        },
+        "properties":
+        {
+            "SiteId": 1650,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 53.3313,
+                "CurrentReadingDate": "2018-07-27T02:20:03",
+                "ChannelInfo":
+                {
+                    "TOB": 66.90,
+                    "BOC": 52.82,
+                    "SensorId": 1653,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.416142, 29.956166],
+            "offset": [-0.00034, -0.0001],
+            "Text": "P100_1660 Greens Bayou @ Knobcrest Drive"
+        },
+        "properties":
+        {
+            "SiteId": 1660,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 65.74,
+                "CurrentReadingDate": "2018-07-26T23:47:59",
+                "ChannelInfo":
+                {
+                    "TOB": 84.80,
+                    "BOC": 64.00,
+                    "SensorId": 1659,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.498006, 29.948488],
+            "offset": [-0.00983, 0.00978],
+            "Text": "P100_1665 Greens Bayou @ Bammel N Houston Road"
+        },
+        "properties":
+        {
+            "SiteId": 1665,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 94.42,
+                "CurrentReadingDate": "2018-07-26T23:14:09",
+                "ChannelInfo":
+                {
+                    "TOB": 107.40,
+                    "BOC": 92.86,
+                    "SensorId": 1664,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.51941, 29.948972],
+            "offset": [0.01036, -0.01028],
+            "Text": "P100_1670 Greens Bayou @ Cutten Road"
+        },
+        "properties":
+        {
+            "SiteId": 1670,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 100.08,
+                "CurrentReadingDate": "2018-07-26T23:50:11",
+                "ChannelInfo":
+                {
+                    "TOB": 112.40,
+                    "BOC": 99.20,
+                    "SensorId": 1669,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.282843, 29.849306],
+            "offset": [0.00136, 0.00032],
+            "Text": "P118_1675 Halls Bayou @ Tidwell Road"
+        },
+        "properties":
+        {
+            "SiteId": 1675,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 18.63,
+                "CurrentReadingDate": "2018-07-27T02:38:31",
+                "ChannelInfo":
+                {
+                    "TOB": 39.90,
+                    "BOC": 17.53,
+                    "SensorId": 1678,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.334883, 29.861698],
+            "offset": [-1E-05, -0.0003],
+            "Text": "P118_1680 Halls Bayou @ Jensen Drive"
+        },
+        "properties":
+        {
+            "SiteId": 1680,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 39.4,
+                "CurrentReadingDate": "2018-07-26T23:51:31",
+                "ChannelInfo":
+                {
+                    "TOB": 53.60,
+                    "BOC": 39.21,
+                    "SensorId": 1679,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.229007, 29.849798],
+            "offset": [-0.00552, -0.00322],
+            "Text": "P100_1685 Greens Bayou @ Tidwell Road"
+        },
+        "properties":
+        {
+            "SiteId": 1685,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 3.5,
+                "CurrentReadingDate": "2018-07-26T23:52:58",
+                "ChannelInfo":
+                {
+                    "TOB": 33.80,
+                    "BOC": 0.51,
+                    "SensorId": 1688,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.396717, 29.892682],
+            "offset": [0.00015, -3E-05],
+            "Text": "P118_1690 Halls Bayou @ Airline Drive"
+        },
+        "properties":
+        {
+            "SiteId": 1690,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 61.04,
+                "CurrentReadingDate": "2018-07-27T02:30:43",
+                "ChannelInfo":
+                {
+                    "TOB": 74.10,
+                    "BOC": 60.27,
+                    "SensorId": 1689,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.355514, 29.917302],
+            "offset": [9E-05, 0.0023],
+            "Text": "P138_1695 @ Aldine Westfield Road"
+        },
+        "properties":
+        {
+            "SiteId": 1695,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 58.2,
+                "CurrentReadingDate": "2018-07-27T02:04:34",
+                "ChannelInfo":
+                {
+                    "TOB": 67.30,
+                    "BOC": 57.32,
+                    "SensorId": 1698,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-94.916822, 29.769851],
+            "offset": [-0.00011, -0.00024],
+            "Text": "Q100_1720 Cedar Bayou @ SH 146"
+        },
+        "properties":
+        {
+            "SiteId": 1720,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": -0.51,
+                "CurrentReadingDate": "2018-07-27T02:27:23",
+                "ChannelInfo":
+                {
+                    "TOB": 5.80,
+                    "BOC": -18.49,
+                    "SensorId": 1723,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": 1.00,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-94.897975, 29.826742],
+            "offset": [0.0, 0.0],
+            "Text": "1725 Smith Gully @ SH 146"
+        },
+        "properties":
+        {
+            "SiteId": 1725,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 10.32,
+                "CurrentReadingDate": "2018-07-26T23:36:13",
+                "ChannelInfo":
+                {
+                    "TOB": 27.20,
+                    "BOC": 9.23,
+                    "SensorId": 1724,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-94.947525, 29.849395],
+            "offset": [-7E-05, 0.0],
+            "Text": "Q100_1730 Cedar Bayou @ FM1942"
+        },
+        "properties":
+        {
+            "SiteId": 1730,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 1.72,
+                "CurrentReadingDate": "2018-07-27T01:51:54",
+                "ChannelInfo":
+                {
+                    "TOB": 25.80,
+                    "BOC": -0.59,
+                    "SensorId": 1729,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-94.985937, 29.97209],
+            "offset": [-0.00048, -0.00084],
+            "Text": "Q100_1740 Cedar Bayou @ US 90"
+        },
+        "properties":
+        {
+            "SiteId": 1740,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 36.99,
+                "CurrentReadingDate": "2018-07-26T23:57:34",
+                "ChannelInfo":
+                {
+                    "TOB": 53.40,
+                    "BOC": 36.09,
+                    "SensorId": 1739,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.09085, 29.910874],
+            "offset": [-0.00799, -0.02816],
+            "Text": "R102_1840 Gum Gully @ Diamond Head Boulevard"
+        },
+        "properties":
+        {
+            "SiteId": 1840,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 6.49,
+                "CurrentReadingDate": "2018-07-27T00:45:34",
+                "ChannelInfo":
+                {
+                    "TOB": 25.10,
+                    "BOC": 5.30,
+                    "SensorId": 1843,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.071971, 30.038554],
+            "offset": [0.0, 0.0],
+            "Text": "1930_Huffman Repeater"
+        },
+        "properties":
+        {
+            "SiteId": 1930,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": null
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.098243, 30.066797],
+            "offset": [0.00032, -0.00037],
+            "Text": "S100_1940 Luce Bayou @ FM 2100"
+        },
+        "properties":
+        {
+            "SiteId": 1940,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 42.3457,
+                "CurrentReadingDate": "2018-07-27T02:05:31",
+                "ChannelInfo":
+                {
+                    "TOB": 59.90,
+                    "BOC": 32.04,
+                    "SensorId": 1943,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.646848, 29.76986],
+            "offset": [-0.00028, 0.0002],
+            "Text": "2010_Barker Dam"
+        },
+        "properties":
+        {
+            "SiteId": 2010,
+            "SiteType": "Dam",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 72.56,
+                "CurrentReadingDate": "2018-07-26T23:59:38",
+                "ChannelInfo":
+                {
+                    "TOB": 104.00,
+                    "BOC": 71.05,
+                    "SensorId": 2009,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": true
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.728164, 29.76716],
+            "offset": [0.00066, 0.00044],
+            "Text": "T101_2020 Mason Creek @ Prince Creek Drive"
+        },
+        "properties":
+        {
+            "SiteId": 2020,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 93.74,
+                "CurrentReadingDate": "2018-07-27T02:01:21",
+                "ChannelInfo":
+                {
+                    "TOB": 108.70,
+                    "BOC": 93.14,
+                    "SensorId": 2019,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.767445, 29.722212],
+            "offset": [0.0, 0.0],
+            "Text": "T100_2025 Buffalo Bayou @ Peek Road"
+        },
+        "properties":
+        {
+            "SiteId": 2025,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 90.25,
+                "CurrentReadingDate": "2018-07-26T23:23:57",
+                "ChannelInfo":
+                {
+                    "TOB": 102.00,
+                    "BOC": 86.80,
+                    "SensorId": 2024,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.807036, 29.743106],
+            "offset": [0.0, 0.0],
+            "Text": "T100_2030 Buffalo Bayou @ Greenbusch Road"
+        },
+        "properties":
+        {
+            "SiteId": 2030,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 96.87,
+                "CurrentReadingDate": "2018-07-26T23:26:01",
+                "ChannelInfo":
+                {
+                    "TOB": 115.30,
+                    "BOC": 95.60,
+                    "SensorId": 2029,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.827024, 29.785685],
+            "offset": [-0.00057, -0.00013],
+            "Text": "T100_2040 Buffalo Bayou @ US 90"
+        },
+        "properties":
+        {
+            "SiteId": 2040,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 124.48,
+                "CurrentReadingDate": "2018-07-27T02:06:36",
+                "ChannelInfo":
+                {
+                    "TOB": 135.70,
+                    "BOC": 123.14,
+                    "SensorId": 2039,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.836823999999993, 29.831083],
+            "offset": [0.0, 0.0],
+            "Text": "2050 Cane Island Branch @ Clay Road"
+        },
+        "properties":
+        {
+            "SiteId": 2050,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 149.1051,
+                "CurrentReadingDate": "2018-07-27T02:59:07",
+                "ChannelInfo":
+                {
+                    "TOB": 154.70,
+                    "BOC": 146.60,
+                    "SensorId": 2049,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.880975, 29.770608],
+            "offset": [0.0, 0.0],
+            "Text": "2060 Willow Fork Creek @ Pederson Road"
+        },
+        "properties":
+        {
+            "SiteId": 2060,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 136.22,
+                "CurrentReadingDate": "2018-07-27T00:35:46",
+                "ChannelInfo":
+                {
+                    "TOB": 149.60,
+                    "BOC": 136.20,
+                    "SensorId": 2059,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.940939, 29.888456],
+            "offset": [0.0, 0.0],
+            "Text": "2090 Brookshire Katy Drainage District @ Morrison Road"
+        },
+        "properties":
+        {
+            "SiteId": 2090,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 186.1702,
+                "CurrentReadingDate": "2018-07-27T01:47:25",
+                "ChannelInfo":
+                {
+                    "TOB": 189.00,
+                    "BOC": 184.50,
+                    "SensorId": 2089,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": 1.00,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.62357, 29.790908],
+            "offset": [-1E-05, -0.00043],
+            "Text": "2110_Addicks Dam"
+        },
+        "properties":
+        {
+            "SiteId": 2110,
+            "SiteType": "Dam",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 68.9,
+                "CurrentReadingDate": "2018-07-27T03:03:28",
+                "ChannelInfo":
+                {
+                    "TOB": 108.00,
+                    "BOC": 67.82,
+                    "SensorId": 2109,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": true
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.625928, 29.835918],
+            "offset": [0.0, 0.0],
+            "Text": "U100_2115 Langham Creek @ Clay Rd"
+        },
+        "properties":
+        {
+            "SiteId": 2115,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 88.47,
+                "CurrentReadingDate": "2018-07-26T23:42:15",
+                "ChannelInfo":
+                {
+                    "TOB": 96.16,
+                    "BOC": 80.85,
+                    "SensorId": 2114,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": 1.00,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.647061, 29.867456],
+            "offset": [0.00038, -0.00018],
+            "Text": "U100_2120 Langham Creek @ West Little York Road"
+        },
+        "properties":
+        {
+            "SiteId": 2120,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 96.41,
+                "CurrentReadingDate": "2018-07-27T03:03:41",
+                "ChannelInfo":
+                {
+                    "TOB": 109.90,
+                    "BOC": 91.20,
+                    "SensorId": 2119,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.634673, 29.883876],
+            "offset": [0.00013, 8E-05],
+            "Text": "U106_2130 Horsepen Creek @ Trailside Drive"
+        },
+        "properties":
+        {
+            "SiteId": 2130,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 98.5396,
+                "CurrentReadingDate": "2018-07-27T01:55:21",
+                "ChannelInfo":
+                {
+                    "TOB": 113.60,
+                    "BOC": 97.93,
+                    "SensorId": 2133,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.696832, 29.895138],
+            "offset": [0.00024, -0.0001],
+            "Text": "U100_2140 Langham Creek @ Longenbaugh Road"
+        },
+        "properties":
+        {
+            "SiteId": 2140,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 120.7,
+                "CurrentReadingDate": "2018-07-27T03:06:29",
+                "ChannelInfo":
+                {
+                    "TOB": 134.40,
+                    "BOC": 120.60,
+                    "SensorId": 2143,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.703888, 29.802411],
+            "offset": [0.00015, 0.00101],
+            "Text": "U101_2150 South Mayde @ Greenhouse Road"
+        },
+        "properties":
+        {
+            "SiteId": 2150,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 101.08,
+                "CurrentReadingDate": "2018-07-27T03:08:01",
+                "ChannelInfo":
+                {
+                    "TOB": 107.90,
+                    "BOC": 98.95,
+                    "SensorId": 2149,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.687108, 29.831211],
+            "offset": [-0.0006, 0.00013],
+            "Text": "U102_2160 Bear Creek @ Clay Road"
+        },
+        "properties":
+        {
+            "SiteId": 2160,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 97.38,
+                "CurrentReadingDate": "2018-07-27T03:07:42",
+                "ChannelInfo":
+                {
+                    "TOB": 113.20,
+                    "BOC": 95.82,
+                    "SensorId": 2159,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.74048, 29.816945],
+            "offset": [0.0006, -0.00012],
+            "Text": "U101_2170 South Mayde Creek @ Morton Road"
+        },
+        "properties":
+        {
+            "SiteId": 2170,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 107.36,
+                "CurrentReadingDate": "2018-07-27T03:09:22",
+                "ChannelInfo":
+                {
+                    "TOB": 121.10,
+                    "BOC": 106.42,
+                    "SensorId": 2169,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.769477, 29.875125],
+            "offset": [0.00082, -0.00014],
+            "Text": "U102_2180 Bear Creek @ FM 529"
+        },
+        "properties":
+        {
+            "SiteId": 2180,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 138.26,
+                "CurrentReadingDate": "2018-07-27T03:10:11",
+                "ChannelInfo":
+                {
+                    "TOB": 147.60,
+                    "BOC": 137.97,
+                    "SensorId": 2179,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.773611, 29.851108],
+            "offset": [0.00012, -8E-05],
+            "Text": "U101_2190 South Mayde Creek @ Peek Road"
+        },
+        "properties":
+        {
+            "SiteId": 2190,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 131.16,
+                "CurrentReadingDate": "2018-07-27T03:11:47",
+                "ChannelInfo":
+                {
+                    "TOB": 139.95,
+                    "BOC": 131.05,
+                    "SensorId": 2193,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.291331, 29.749171],
+            "offset": [-0.00028, -0.00022],
+            "Text": "W100_2210 Buffalo Bayou @ Turning Basin"
+        },
+        "properties":
+        {
+            "SiteId": 2210,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": -0.62,
+                "CurrentReadingDate": "2018-07-27T03:13:49",
+                "ChannelInfo":
+                {
+                    "TOB": 9.00,
+                    "BOC": -15.57,
+                    "SensorId": 2209,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.361102, 29.764808],
+            "offset": [-0.00988, 0.00974],
+            "Text": "W100_2220 Buffalo Bayou @ Milam Street"
+        },
+        "properties":
+        {
+            "SiteId": 2220,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": -0.54,
+                "CurrentReadingDate": "2018-07-27T03:13:47",
+                "ChannelInfo":
+                {
+                    "TOB": 21.80,
+                    "BOC": -6.71,
+                    "SensorId": 2223,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.408655, 29.760145],
+            "offset": [0.00012, 0.00649],
+            "Text": "W100_2240 Buffalo Bayou @ Shepherd Drive"
+        },
+        "properties":
+        {
+            "SiteId": 2240,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 0.7,
+                "CurrentReadingDate": "2018-07-27T02:27:50",
+                "ChannelInfo":
+                {
+                    "TOB": 28.00,
+                    "BOC": -3.19,
+                    "SensorId": 2239,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.500348, 29.796238],
+            "offset": [8E-05, -5E-05],
+            "Text": "W140_2250 Spring Branch @ Bingle Road"
+        },
+        "properties":
+        {
+            "SiteId": 2250,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 52.97,
+                "CurrentReadingDate": "2018-07-26T23:55:31",
+                "ChannelInfo":
+                {
+                    "TOB": 67.30,
+                    "BOC": 52.76,
+                    "SensorId": 2249,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.53273, 29.815943999999998],
+            "offset": [0.0, 0.0],
+            "Text": "2253 Buttermilk Creek @ Moorberry Lane"
+        },
+        "properties":
+        {
+            "SiteId": 2253,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 79.13,
+                "CurrentReadingDate": "2018-07-27T02:49:39",
+                "ChannelInfo":
+                {
+                    "TOB": 84.29,
+                    "BOC": 78.87,
+                    "SensorId": 22537,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.5139, 29.78962],
+            "offset": [-5E-05, 0.01],
+            "Text": "W140-01_2255 Briar Branch @ Campbell Road"
+        },
+        "properties":
+        {
+            "SiteId": 2255,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 59.87,
+                "CurrentReadingDate": "2018-07-27T02:38:09",
+                "ChannelInfo":
+                {
+                    "TOB": 71.20,
+                    "BOC": 59.70,
+                    "SensorId": 2254,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.505614, 29.751207],
+            "offset": [-0.00038, 0.00038],
+            "Text": "W100_2260 Buffalo Bayou @ San Felipe Drive"
+        },
+        "properties":
+        {
+            "SiteId": 2260,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 22.81,
+                "CurrentReadingDate": "2018-07-26T23:17:50",
+                "ChannelInfo":
+                {
+                    "TOB": 54.30,
+                    "BOC": 21.10,
+                    "SensorId": 2259,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.523656, 29.747136],
+            "offset": [0.0, 0.0],
+            "Text": "W100_2265 Buffalo Bayou @ Piney Point Rd"
+        },
+        "properties":
+        {
+            "SiteId": 2265,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 28.007,
+                "CurrentReadingDate": "2018-07-26T23:40:51",
+                "ChannelInfo":
+                {
+                    "TOB": 52.00,
+                    "BOC": 25.75,
+                    "SensorId": 2264,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.557476, 29.762026],
+            "offset": [0.00028, -0.00023],
+            "Text": "W100_2270 Buffalo Bayou @ West Beltway 8"
+        },
+        "properties":
+        {
+            "SiteId": 2270,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 35.95,
+                "CurrentReadingDate": "2018-07-27T02:37:19",
+                "ChannelInfo":
+                {
+                    "TOB": 62.20,
+                    "BOC": 34.71,
+                    "SensorId": 2269,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.570092, 29.778606],
+            "offset": [-0.00414, -0.00313],
+            "Text": "W156_2280 Rummel Creek @ Brittmoore Road"
+        },
+        "properties":
+        {
+            "SiteId": 2280,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 62.0454,
+                "CurrentReadingDate": "2018-07-27T01:49:26",
+                "ChannelInfo":
+                {
+                    "TOB": 73.00,
+                    "BOC": 60.77,
+                    "SensorId": 2283,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-95.606088, 29.761605],
+            "offset": [-0.00182, 0.00965],
+            "Text": "W100_2290 Buffalo Bayou @ Dairy Ashford Road"
+        },
+        "properties":
+        {
+            "SiteId": 2290,
+            "SiteType": "Channel",
+            "Rainfall": 0.0,
+            "RainfallText": "0.00",
+            "Description": "",
+            "StreamData": [
+            {
+                "CurrentLevel": 46.49,
+                "CurrentReadingDate": "2018-07-27T01:33:54",
+                "ChannelInfo":
+                {
+                    "TOB": 73.20,
+                    "BOC": 45.51,
+                    "SensorId": 2289,
+                    "FloodStage": null,
+                    "FloodLevelIndicator": null,
+                    "NoFloodCategory": false
+                }
+            }]
+        }
+    }]
+}
