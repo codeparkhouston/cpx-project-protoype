@@ -1,4 +1,4 @@
-Same as https://learn.adafruit.com/data-logging-with-feather-and-circuitpython/circuitpython-code but using cpx library so we can write less code.
+Same as https://learn.adafruit.com/cpu-temperature-logging-with-circuit-python/writing-to-the-filesystem but using cpx library so we can write less code.
 
 The tutorial uses lower level libraries `board` and `digitalio` to toggle storage
 
