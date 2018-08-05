@@ -13,7 +13,7 @@ try:
 
 
             # writing data to the file
-            data = '{0:f}, {0:f}, {0:f}, {0:f}, {0:f}\n'.format(x, y, z, temperature, light)
+            data = '{:f}, {:f}, {:f}, {:f}, {:f}\n'.format(x, y, z, temperature, light)
             fp.write(data)
             fp.flush()
 
