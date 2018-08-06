@@ -20,18 +20,21 @@ try:
         # Forever,
         while True:
 
-            x, y, z = cpx.acceleration
-            temperature = cpx.temperature
-            light = cpx.light
+            # Data we want to collect saved to variables here.
+
+
             
             # We can visualize data live here using the pixels as we'd like.
             # This could cause the cpx to run out of batteries though.
 
 
+
             # This line takes the sensor data and puts it in a format where
             # the numbers will be separated by commas like so:
             # x, y, z, temperature, light
-            data = '{:f}, {:f}, {:f}, {:f}, {:f}\n'.format(x, y, z, temperature, light)
+            data = # how we want to format the data here.
+
+
             # This writes the data to our data_log stream.
             data_log.write(data)
             # 
