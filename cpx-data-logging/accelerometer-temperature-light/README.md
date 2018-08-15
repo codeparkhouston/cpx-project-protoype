@@ -10,6 +10,8 @@ The code in this file is run after the `boot.py` code runs.
 
 The code in this file controls one of two things: reading data from sensors and writing information to a file.
 
+## Reading from data sensors
+
 To talk through this code as a class, it would be helpful to start first with the familar concept of reading data from sensors:
 
 ```py
@@ -26,6 +28,8 @@ while True:
     # Wait 1 second before collecting data again.
     time.sleep(1)
 ```
+
+## Plotting from data sensors
 
 To make the data collection more clear, we can progress to printing the data and even taking advantage of Mu's plotter:
 
@@ -50,6 +54,8 @@ while True:
 
 Experiment with the CPX and let students observe the changes in the realtime plotter.
 
+## Combining readings into a line of text
+
 Next, we can replace the logging code with code that combines the different sensor readings together into a line of text.  We print each line of code to see what that will look like.
 
 ```py
@@ -72,6 +78,8 @@ while True:
     # Wait 1 second before collecting data again.
     time.sleep(1)
 ```
+
+## Error handling
 
 The rest of the code we add will be related to data logging.  Sometimes code can fail.  We've seen it before with error messages when we mispell the code.  We can use something called error handling to help as we prepare to add writing the data to files.
 
@@ -126,6 +134,8 @@ except OSError as error:
         # for all other errors.
         time.sleep(delay)
 ```
+
+## Writing data to a file stream
 
 Next, we can add code for writing to a file.  In Python, we open a "stream" to a file, which is a computer science construct that is like a conveyor belt.  We can place information on the stream and it will be transported to the file.  The stream we are opening to the file is in the mode "a", which is short for append only, meaning this will only add to the file and never erase.
 
